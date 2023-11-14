@@ -11,7 +11,7 @@ sql_input = st.text_area("Insira o SQL aqui")
 # Controles deslizantes e seletores para os parâmetros
 comma_first = st.checkbox("Vírgula primeiro", value = True)
 strip_comments = st.checkbox("Remover comentários", value = False)
-align_aliases_config = st.checkbox("Alinha aliases (Em desenvolvimento)", value = True)
+align_aliases_config = st.checkbox("Alinha aliases (Em desenvolvimento)", value = False)
 # input_as_into_aliases  = st.checkbox("Input 'AS'", value = False)
 
 
