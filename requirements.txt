@@ -1,0 +1,4 @@
+streamlit
+sqlparse
+pyperclip
+sql_metadata
